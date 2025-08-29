@@ -4,7 +4,7 @@
 
 ### About Me
 
-HI AUDREY! HI MICHELANGELO!
+LOREM IPSUM ETC
 
 ### Experience
 
@@ -40,6 +40,6 @@ HI AUDREY! HI MICHELANGELO!
 
 ### Projects
 
-- [Data Analysis Report: London Transportation Journey Survey](https://docs.google.com/document/d/1PbFqdV3Xd_x5sAlFoDxB1qvo6SjvDNyLyagi5MvMnfU/edit?usp=sharing)
+- Project Name with hyperlink
     - Some one liner here about my project
 - Project 3
