@@ -8,11 +8,11 @@ LOREM IPSUM ETC
 
 ### Experience
 
-**Global Career Accelerator** | SQL & Python Trainee  (Spring ‘25)
+**Global Career Accelerator** | Trainee  (MONTH ‘YY)
 
-- Extracted and transformed large datasets using SQL to support business analysis.
-- Analyzed user behavior trends across industries to drive data-driven decision-making.
-- Leveraged EDA, summary statistics, and visualization to generate actionable business insights.
+- Bullet point #1
+- Bullet point #2 
+- Bullet point #3
 
 ### Tools
 
