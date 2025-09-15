@@ -1,6 +1,6 @@
 # Some Cool Title
 
-## 👋 Hi there!  I’m Someone!
+## 👋 Hi there! HI AUDREY and ZARRIA!
 
 ### About Me
 
