@@ -1,6 +1,6 @@
 # Some Cool Title
 
-## 👋 Hi there! HI AUDREY and ZARRIA!
+## 👋 Hi there!
 
 ### About Me
 
@@ -16,30 +16,20 @@ LOREM IPSUM ETC
 
 ### Tools
 
-- 🔢 SQL
-- 📊 Tableau Cloud
-- 🐍 Python
-- Jupyter Notebook
-- 🐼 Python’s Pandas
-- 🐫 Python’s Numpy
-- 🗺️ Python’s Plotly
+- Tool 1
+- Tool 2
+- Tool 3
+- Tool 4
 
 ### Skills
 
-- Querying Data in SQL
-- Using Conditional Logic
-- Intercultural Teamwork
-- Data Aggregation
-- Coding in Python
-- Python Libraries
-- Visualizing Data
-- Data Joining
-- Creating Functions
-- Exploring Data
-- Cleaning Data
+- Skill 1
+- Skill 2
+- Skill 3
+- Skill 4
 
 ### Projects
 
 - Project Name with hyperlink
     - Some one liner here about my project
-- Project 3
+- Project 2
