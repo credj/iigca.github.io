@@ -71,11 +71,21 @@ Oversaw finance operations at a family-run jewelry store, streamlining processes
 
 ## Projects
 
+### [Agent-Based Model on Market Volatility] (https://docs.google.com/presentation/d/1vqErBj4tqCArg9qmmVrnT-lOToKGZXqAxz8pL_VeVZ8/edit?usp=sharing)
+I built a Python-based simulation to explore how trader behavior, noise, and sentiment drive asset price volatility. I tested scenarios with different reaction speeds, sentiment biases, and noise levels, showing how collective behavior can trigger both stability and large price swings.
+
 ### [Branded Landing Page for Charity: Water](https://credj.github.io/CR-02-charity-water-lp/)  
 Developed a fully branded landing page for a non-profit using **AI coding assistance**, **HTML**, and **CSS**. Integrated audience insights, visual storytelling, and persuasive copy to raise awareness and drive global donations. Focused on applying UX principles to enhance engagement and inspire action.
 
 ### [Sustainability Data Visualization – Inspired by Intel](https://docs.google.com/presentation/d/1kEi-gVaElNqAhviK-ODjDebLzqtXKW_AQkn8LcacObc/edit?usp=sharing)  
 Designed compelling data visualizations based on Intel’s Corporate Responsibility Report, translating complex sustainability data into clear, engaging visual narratives. Focused on promoting environmental awareness through accessible design, visual hierarchy, and data storytelling techniques.
+
+### [The Economic Impact of Post-2018 Oil Sanctions on Iran] (https://docs.google.com/document/d/1bltXELb-Zs8OOJvhIsVSaOPBDRbg7UoKk2Ij6jbp8aM/edit?usp=sharing The Economic Impact of Post-2018 Oil Sanctions on Iran.pdf)
+This is a research paper for my independent research project in ECON 499 analyzing how U.S. oil sanctions affected Iran’s economy after 2018. 
+I examined macroeconomic data on GDP, inflation, trade, and welfare outcomes to evaluate how sanctions shaped economic stability and public well-being.
+
+### [The Economic Impact of Depression Treatment in India] (https://docs.google.com/presentation/d/1uV5LGHpoIl_TIIgLwUH1FzC8VFO7eeH5r_8VSmGne_8/edit?usp=sharing)
+I created presentation on Angelucci & Bennett’s RCT study of pharmacotherapy and livelihoods assistance in India. I accurately interpreted and implemented regression analysis, examining impacts on depression symptoms, economic outcomes, and child human capital investment. Our work highlighted how community-based interventions can improve mental health at low cost.
 
 ### [Personal Branding Campaign](#)  
 Created and analyzed a personal social media strategy focused on career branding and LinkedIn engagement optimization.
@@ -84,28 +94,19 @@ Created and analyzed a personal social media strategy focused on career branding
 Implemented keyword strategies and structural changes to improve SEO performance and digital reach of personal website.
 
 
-**Global Career Accelerator** | Trainee  (MONTH ‘YY)
-
-- Bullet point #1
-- Bullet point #2 
-- Bullet point #3
-
 ### Tools
 
-- Tool 1
-- Tool 2
-- Tool 3
-- Tool 4
+	•	Python (NumPy, Pandas)
+	•	RStudio
+	•	STATA
+	•	Excel / MS Office
+	•	JavaScript, HTML, CSS
 
 ### Skills
 
-- Skill 1
-- Skill 2
-- Skill 3
-- Skill 4
+	•	Data Analysis & Statistical Modeling
+	•	Financial Forecasting & Cost Analysis
+	•	Project & Client Relationship Management
+	•	Leadership, Team Training & Communication
 
-### Projects
 
-- Project Name with hyperlink
-    - Some one liner here about my project
-- Project 2
