@@ -73,7 +73,7 @@ Oversaw finance operations at a family-run jewelry store, streamlining processes
 
 Agent-Based Model on Market Volatility
 
-### Agent-Based Model on Market Volatility (https://docs.google.com/presentation/d/1vqErBj4tqCArg9qmmVrnT-lOToKGZXqAxz8pL_VeVZ8/edit?usp=sharing)
+### [Agent-Based Model on Market Volatility](https://docs.google.com/presentation/d/1vqErBj4tqCArg9qmmVrnT-lOToKGZXqAxz8pL_VeVZ8/edit?usp=sharing)
 I built a Python-based simulation to explore how trader behavior, noise, and sentiment drive asset price volatility. I tested scenarios with different reaction speeds, sentiment biases, and noise levels, showing how collective behavior can trigger both stability and large price swings.
 
 ### [Branded Landing Page for Charity: Water](https://credj.github.io/CR-02-charity-water-lp/)  
@@ -82,7 +82,7 @@ Developed a fully branded landing page for a non-profit using **AI coding assist
 ### [Sustainability Data Visualization – Inspired by Intel](https://docs.google.com/presentation/d/1kEi-gVaElNqAhviK-ODjDebLzqtXKW_AQkn8LcacObc/edit?usp=sharing)  
 Designed compelling data visualizations based on Intel’s Corporate Responsibility Report, translating complex sustainability data into clear, engaging visual narratives. Focused on promoting environmental awareness through accessible design, visual hierarchy, and data storytelling techniques.
 
-### [The Economic Impact of Post-2018 Oil Sanctions on Iran] (https://docs.google.com/document/d/1bltXELb-Zs8OOJvhIsVSaOPBDRbg7UoKk2Ij6jbp8aM/edit?usp=sharing The Economic Impact of Post-2018 Oil Sanctions on Iran.pdf)
+### [The Economic Impact of Post-2018 Oil Sanctions on Iran](https://docs.google.com/document/d/1bltXELb-Zs8OOJvhIsVSaOPBDRbg7UoKk2Ij6jbp8aM/edit?usp=sharing The Economic Impact of Post-2018 Oil Sanctions on Iran.pdf)
 This is a research paper for my independent research project in ECON 499 analyzing how U.S. oil sanctions affected Iran’s economy after 2018. 
 I examined macroeconomic data on GDP, inflation, trade, and welfare outcomes to evaluate how sanctions shaped economic stability and public well-being.
 
