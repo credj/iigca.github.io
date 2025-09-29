@@ -71,7 +71,9 @@ Oversaw finance operations at a family-run jewelry store, streamlining processes
 
 ## Projects
 
-### [Agent-Based Model on Market Volatility] (https://docs.google.com/presentation/d/1vqErBj4tqCArg9qmmVrnT-lOToKGZXqAxz8pL_VeVZ8/edit?usp=sharing)
+Agent-Based Model on Market Volatility
+
+### Agent-Based Model on Market Volatility (https://docs.google.com/presentation/d/1vqErBj4tqCArg9qmmVrnT-lOToKGZXqAxz8pL_VeVZ8/edit?usp=sharing)
 I built a Python-based simulation to explore how trader behavior, noise, and sentiment drive asset price volatility. I tested scenarios with different reaction speeds, sentiment biases, and noise levels, showing how collective behavior can trigger both stability and large price swings.
 
 ### [Branded Landing Page for Charity: Water](https://credj.github.io/CR-02-charity-water-lp/)  
