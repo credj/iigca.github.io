@@ -73,6 +73,9 @@ I examined macroeconomic data on GDP, inflation, trade, and welfare outcomes to 
 ### [The Economic Impact of Depression Treatment in India](https://docs.google.com/presentation/d/1uV5LGHpoIl_TIIgLwUH1FzC8VFO7eeH5r_8VSmGne_8/edit?usp=sharing)
 I created a presentation on Angelucci & Bennett’s RCT study of pharmacotherapy and livelihoods assistance in India. I accurately interpreted and implemented regression analysis, examining impacts on depression, employment, and economic well-being in rural communities.
 
+### Altered Cognitive States and Verbal Coherence
+I am currently designing an experimental study testing how altered cognitive states affect the coherence of verbal explanations. Participants provide scenario-based explanations that are scored on clarity, logic, organization, and reasoning. I will apply regression analysis while controlling for baseline coherence measures to estimate treatment effects.
+
 ### [Agent-Based Model on Market Volatility](https://docs.google.com/presentation/d/1vqErBj4tqCArg9qmmVrnT-lOToKGZXqAxz8pL_VeVZ8/edit?usp=sharing)
 I built a Python-based simulation to explore how trader behavior, noise, and sentiment drive asset price volatility. I tested scenarios with different reaction speeds, sentiment biases, and noise levels to analyze their effects on price dynamics.
 
