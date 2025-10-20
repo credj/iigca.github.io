@@ -88,6 +88,9 @@ Created and analyzed a personal social media strategy focused on career branding
 ### [SEO Optimization Plan for Portfolio Site](#)  
 Implemented keyword strategies and structural changes to improve SEO performance and digital reach of personal website.
 
+### [A/B Testing for The Grammys](https://umich-my.sharepoint.com/:x:/r/personal/credj_umich_edu/Documents/AB-Testing-The-Recording-Academy.xlsx?d=w3c6fa645940a4997bb7a7dc98baa3e35&csf=1&web=1&e=ZoPS9K) 
+Analyzed A/B test results on social media engagement, determined statistical significance, and made data-driven recommendations for the optimal CTA button to increase GRAMMY U memberships.
+
 ### Altered Cognitive States and Verbal Coherence
 I am currently designing an experimental study testing how altered cognitive states affect the coherence of verbal explanations. Participants provide scenario-based explanations that are scored on clarity, logic, organization, and reasoning. I will apply regression analysis while controlling for baseline coherence measures to estimate treatment effects.
 
